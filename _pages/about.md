@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-To be updated with CV.
+To be updated with CV [^1].
 
 
 
